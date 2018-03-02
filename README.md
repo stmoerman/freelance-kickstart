@@ -50,11 +50,13 @@ Huge thanks to our ever-growing community and the community of [@donthedeveloper
 
 ### Pricing & Scoping Projects
 
-* [The Art of Crafting Accurate Estimates] (http://alistapart.com/column/creating-accurate-estimates) from the folks at [A List Apart](http://alistapart.com/), a great resource 
+* [The Art of Crafting Accurate Estimates](http://alistapart.com/column/creating-accurate-estimates) from the folks at [A List Apart](http://alistapart.com/), a great resource 
 
 * [From Inquiry to Project Start: How to set up a process & impress clients](http://freelancetofreedomproject.com/freelance-process-to-save-time-impress-clients/): a long but helpful article from [The Freedom to Freelance Project](http://freelancetofreedomproject.com/).
 
 * [Pricing Models](/docs/pricing-models.md): A guide on hourly pricing vs. daily pricing vs. project pricing vs. value pricing.
+
+* [Remote Job Boards](/docs/job-boards.md): A list of companies or job boards advertising Remote Jobs.
 
 ### Client Onboarding
 
