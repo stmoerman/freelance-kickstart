@@ -79,6 +79,7 @@ Companies that are known for having remote roles sometimes.
 ### 🔨 Freelancing
 
 Prefer to work for yourself? Here's a list of freelancing websites.
+
 | Site                                                | Details                                            | Alexa Rank  | Category |
 | --------------------------------------------------- | -------------------------------------------------- | ----------- | -------- |
 | [Fiverr](https://www.fiverr.com/)                   | Freelance gigs in all sectors.                     | 400         | Variety  |
