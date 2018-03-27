@@ -4,7 +4,7 @@
 
 Here you'll find documents, advice, discussions on topics important to freelance web developers who are part of our Discord community.
 
-[![Discord](http://i.imgur.com/q7dA8Jx.png)](https://discord.gg/BfdCXZk)
+[![Discord](http://i.imgur.com/q7dA8Jx.png)](https://discord.gg/sQbZb6z)
 
 This resource will be updated on a regular basis.    
 New resources can be sent to me at [stephan@kreynation.com](mailto:stephan@kreynation.com).
