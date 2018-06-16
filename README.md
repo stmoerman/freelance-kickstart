@@ -4,7 +4,7 @@
 
 Here you'll find documents, advice, discussions on topics important to freelance web developers who are part of our Discord community.
 
-[![Discord](http://i.imgur.com/q7dA8Jx.png)](https://discord.gg/X7yY9jJ)
+[![Discord](http://i.imgur.com/q7dA8Jx.png)](https://discord.gg/YqWEP8s)
 
 This resource will be updated on a regular basis.    
 New resources can be sent to me at [stephan@kreynation.com](mailto:stephan@kreynation.com).
@@ -17,6 +17,19 @@ Huge thanks to our ever-growing community and the community of [@donthedeveloper
 * [Everything I wish I knew running a sole proprietorship business](http://wesbos.com/sole-proprietorship-ontario/): a great post from instructor [Wes Bos](http://wesbos.com/) on first steps you should take. Read the comments too!
 
 * Learn to expense. You can reduce your taxable income by claiming expenses. This includes but isn't limited to office supplies, online subscriptions, continuing education, conference and more! 
+
+
+### Excel Templates
+* [Time Tracking Template](https://www.vertex42.com/ExcelTemplates/time-tracker.html) - Nothing is more valuable than your time. Whether you want an easier way to track it for billing reasons, or just want to keep tabs on your workflow, the versatile Time Tracking Template can get it done. A must-have if you get paid hourly.
+
+* [Personal Budget](https://templates.office.com/en-us/Personal-budget-TM10000134) - Straight from Microsoft, this budgeting template is extremely useful when you want to see your income, expenses and savings. There are two graphs to help you visualize the difference between your income and expenses. This one is simple, but invaluable.
+
+* [Project Budget Template](https://www.vertex42.com/ExcelTemplates/project-budget.html) - If you’re looking to budget a project rather than your personal finances, this template will do the trick. All but the largest projects can be tracked in a spreadsheet like this one. There are a few extra templates here, suitable for real-world projects, monthly tracking or for a multitude of other tasks.
+
+* [Free Invoice Template](https://www.freshbooks.com/invoice-templates/graphic-design) - If you’re a freelancer who works online, you’re probably going to need an invoice template. These function as a record of your services and the money collected. It’s crucial that invoices look professional, as your clients will be seeing them.
+
+* [Gantt Chart Template](https://www.vertex42.com/ExcelTemplates/excel-gantt-chart.html) - A Gantt chart is a horizontal bar chart that spans the start and end times for individual pieces of a project. Gantt charts can be easily created in Excel, and this template can help you learn how to take advantage of this useful graph. Just set the tasks and add their start and end times, and you’ll have a visual plan for your next project.
+
 
 ### Accounting 
 * [Wave](https://www.waveapps.com/): a free bookkeeping service.
