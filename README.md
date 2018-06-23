@@ -118,7 +118,7 @@ Similar to brand or style guides, accessibility guides are becoming more popular
 
 * Make extra money with an affiliate program like [Bluehost](https://www.bluehost.com/hosting/partner) or [WPEngine](http://wpengine.com/affiliate/).
 
-### Depolyment of a project
+### Depolyment strategys
 
 Does not have to be hard in fact it can be a lot easyer in todays terms with the tools people have made for developers.
 
