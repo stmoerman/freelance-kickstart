@@ -118,10 +118,10 @@ Similar to brand or style guides, accessibility guides are becoming more popular
 
 * Make extra money with an affiliate program like [Bluehost](https://www.bluehost.com/hosting/partner) or [WPEngine](http://wpengine.com/affiliate/).
 
-### Depolyment strategys
+### Deployment strategies
 
 Does not have to be hard in fact it can be a lot easyer in todays terms with the tools people have made for developers.
 
-* [Heroku](https://www.heroku.com/)
+* Free hosting through [Heroku](https://www.heroku.com/) which can be very useful for personal projects or portfolio items.
 
-* [Buddy Works](https://buddy.works/)
+* Automated Full-stack preview & test enviroments with [Buddy Works](https://buddy.works/)
