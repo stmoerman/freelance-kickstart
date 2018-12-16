@@ -7,7 +7,7 @@ Here you'll find documents, advice, discussions on topics important to freelance
 [![Discord](http://i.imgur.com/q7dA8Jx.png)](https://discord.gg/YqWEP8s)
 
 This resource will be updated on a regular basis.    
-New resources can be sent to me at [stephan@kreynation.com](mailto:stephan@kreynation.com).
+New resources can be sent to me at [stephan@scopeweb.nyc](mailto:stephan@scopeweb.nyc).
 
 Huge thanks to our ever-growing community and the community of [@donthedeveloper](https://github.com/donthedeveloper/) for sharing all of these resources.
 
